@@ -30,7 +30,7 @@
 #svgMain {margin-left:auto; margin-right:auto; display:block;}
 
 </style>
-<svg id="svgMain" width="700" height="700"></svg>
+<svg id="svgMain" width="900" height="700"></svg>
 
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -79,7 +79,7 @@ d3.json("flare.json", function(error, root) {
   var node = g.selectAll("circle,text");
 
   svg
-      .style("background", color(-1))
+      .style("background", color(#ffffff))
       .on("click", function() { zoom(root); });
 
   zoomTo([root.x, root.y, root.r * 2 + margin]);
