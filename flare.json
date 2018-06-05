@@ -17,7 +17,7 @@
    ]
   },
   {
-   "name": "Western Europe and Other",
+   "name": "Asia",
    "children": [
     {"name": "IScaleMap", "size": 2105},
     {"name": "LinearScale", "size": 1316},
@@ -32,7 +32,7 @@
    ]
   },
   {
-   "name": "Western Europe and Other",
+   "name": "South America",
    "children": [
     {"name": "IScaleMap", "size": 2105},
     {"name": "LinearScale", "size": 1316},
@@ -47,7 +47,7 @@
    ]
   },
   {
-   "name": "Western Europe and Other",
+   "name": "Africa",
    "children": [
     {"name": "IScaleMap", "size": 2105},
     {"name": "LinearScale", "size": 1316},
@@ -62,7 +62,7 @@
    ]
   },
   {
-   "name": "Western Europe and Other",
+   "name": "Eastern Europe",
    "children": [
     {"name": "IScaleMap", "size": 2105},
     {"name": "LinearScale", "size": 1316},
@@ -74,9 +74,6 @@
     {"name": "Scale", "size": 4268},
     {"name": "ScaleType", "size": 1821},
     {"name": "TimeScale", "size": 5833}
-   ]
-  },
-    {"name": "Visualization", "size": 16540}
    ]
   }
  ]
