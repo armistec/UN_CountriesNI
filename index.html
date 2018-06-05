@@ -41,12 +41,12 @@ var svg = d3.select("svg"),
 
 var color = d3.scaleLinear()
     .domain([-1, 5])
-    .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
+    .range(["hsl(32,69%,95%)", "hsl(32,39%,100%)"])
     .interpolate(d3.interpolateHcl);
   
 var color2 = d3.scaleLinear()
     .domain([1, 3])
-    .range(["hsl(0, 0%, 100%)", "hsl(228,30%,40%)", "hsl(130, 97%, 73%)"])
+    .range(["hsl(0, 0%, 100%)", "hsl(32,69%,95%)", "hsl(130, 97%, 73%)"])
 
 var pack = d3.pack()
     .size([diameter - margin, diameter - margin])
