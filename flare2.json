@@ -1,0 +1,91 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Western Europe and Other",
+   "children": [
+    {"name": "Andorra", "size": 11105},
+    {"name": "Iceland", "size": 5316},
+    {"name": "Liechtenstein", "size": 6151},
+    {"name": "Monaco", "size": 13770},
+    {"name": "San Marino", "size": 2435},
+    {"name": "Switzerland", "size": 4839}
+   ]
+  },
+  {
+   "name": "Asia",
+   "children": [
+    {"name": "Afghanistan", "size": 2105},
+    {"name": "Bhutan", "size": 300},
+    {"name": "Mongolia", "size": 300},
+    {"name": "Tuvalu", "size": 300},
+    {"name": "Uzbekistan", "size": 300},
+    {"name": "Vanuatu", "size": 300},
+    {"name": "Cyprus", "size": 600},
+    {"name": "Myanmar", "size": 600},
+    {"name": "Brunei Darussalam", "size": 377},
+    {"name": "Nauru", "size": 377},
+    {"name": "Cambodia", "size": 2435},
+    {"name": "Democratic People's Republic of Korea", "size": 4839},
+    {"name": "Fiji", "size": 600},
+    {"name": "Tajikistan", "size": 600},
+    {"name": "Timor-Leste", "size": 600},
+    {"name": "Tonga", "size": 600},
+    {"name": "Turkmenistan", "size": 600},
+    {"name": "Israel", "size": 2000},
+    {"name": "Maldives", "size": 2000},
+    {"name": "Palau", "size": 2000},
+    {"name": "Papua New Guinea", "size": 2000},
+    {"name": "Samoa", "size": 2000},
+    {"name": "Solomon Islands", "size": 2000},
+    {"name": "Kiribati", "size": 2500},
+    {"name": "Marshall Islands", "size": 2500},
+    {"name": "Lao People's Democratic Republic", "size": 4000}
+   ]
+  },
+  {
+   "name": "Latin American and Caribbean",
+   "children": [
+    {"name": "Antigua and Barbuda", "size": 210},
+    {"name": "Bahamas", "size": 131},
+    {"name": "Barbados", "size": 700},
+    {"name": "Saint Lucia", "size": 700},
+    {"name": "Saint Vincent and the Grenadines", "size": 700},
+    {"name": "Suriname", "size": 700},
+    {"name": "Barbados", "size": 700},
+    {"name": "Belize", "size": 1000},
+    {"name": "Dominica", "size": 5000},
+    {"name": "Dominican Republic", "size": 4839},
+    {"name": "El Salvador", "size": 1756},
+    {"name": "Grenada", "size": 426},
+    {"name": "Haiti", "size": 1821},
+    {"name": "Saint Kitts and Nevis", "size": 3000}
+   ]
+  },
+  {
+   "name": "Africa",
+   "children": [
+    {"name": "Central African Republic", "size": 2105},
+    {"name": "Eritrea", "size": 1316},
+    {"name": "Lesotho", "size": 3151},
+    {"name": "Malawi", "size": 3770},
+    {"name": "Mozambique", "size": 2435},
+    {"name": "Seychelles", "size": 4839},
+    {"name": "South Sudan", "size": 1756},
+    {"name": "Swaziland", "size": 4268}
+   ]
+  },
+  {
+   "name": "Eastern Europe",
+   "children": [
+    {"name": "Albania", "size": 2105},
+    {"name": "Armenia", "size": 1316},
+    {"name": "Estonia", "size": 3151},
+    {"name": "Georgia", "size": 3770},
+    {"name": "Latvia", "size": 2435},
+    {"name": "Montenegro", "size": 4839},
+    {"name": "Serbia", "size": 1756}
+   ]
+  }
+ ]
+}
