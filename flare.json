@@ -4,16 +4,16 @@
   {
    "name": "Western Europe and Other",
    "children": [
-    {"name": "IScaleMap", "size": 2105},
-    {"name": "LinearScale", "size": 1316},
+    {"name": "IScaleMap", "size": 6105},
+    {"name": "LinearScale", "size": 5316},
     {"name": "LogScale", "size": 3151},
     {"name": "OrdinalScale", "size": 3770},
     {"name": "QuantileScale", "size": 2435},
     {"name": "QuantitativeScale", "size": 4839},
     {"name": "RootScale", "size": 1756},
-    {"name": "Scale", "size": 4268},
-    {"name": "ScaleType", "size": 1821},
-    {"name": "TimeScale", "size": 5833}
+    {"name": "Scale", "size": 426},
+    {"name": "ScaleType", "size": 182},
+    {"name": "TimeScale", "size": 7833}
    ]
   },
   {
