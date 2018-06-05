@@ -20,30 +20,30 @@
    "name": "Asia",
    "children": [
     {"name": "IScaleMap", "size": 2105},
-    {"name": "LinearScale", "size": 1316},
-    {"name": "LogScale", "size": 3151},
-    {"name": "OrdinalScale", "size": 3770},
+    {"name": "LinearScale", "size": 300},
+    {"name": "LogScale", "size": 600},
+    {"name": "OrdinalScale", "size": 377},
     {"name": "QuantileScale", "size": 2435},
     {"name": "QuantitativeScale", "size": 4839},
-    {"name": "RootScale", "size": 1756},
-    {"name": "Scale", "size": 4268},
-    {"name": "ScaleType", "size": 1821},
-    {"name": "TimeScale", "size": 5833}
+    {"name": "RootScale", "size": 600},
+    {"name": "Scale", "size": 2000},
+    {"name": "ScaleType", "size": 2500},
+    {"name": "TimeScale", "size": 4000}
    ]
   },
   {
    "name": "South America",
    "children": [
-    {"name": "IScaleMap", "size": 2105},
-    {"name": "LinearScale", "size": 1316},
-    {"name": "LogScale", "size": 3151},
-    {"name": "OrdinalScale", "size": 3770},
-    {"name": "QuantileScale", "size": 2435},
+    {"name": "IScaleMap", "size": 210},
+    {"name": "LinearScale", "size": 131},
+    {"name": "LogScale", "size": 700},
+    {"name": "OrdinalScale", "size": 1000},
+    {"name": "QuantileScale", "size": 5000},
     {"name": "QuantitativeScale", "size": 4839},
     {"name": "RootScale", "size": 1756},
-    {"name": "Scale", "size": 4268},
+    {"name": "Scale", "size": 426},
     {"name": "ScaleType", "size": 1821},
-    {"name": "TimeScale", "size": 5833}
+    {"name": "TimeScale", "size": 3000}
    ]
   },
   {
